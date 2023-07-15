@@ -1,4 +1,4 @@
-# Movie_Recommendation_Engine
+# Movie_Recommendation_System
 This is a project for recommending similar category of movies. When there is a search request for a movie on basis of the search some similar movies are recommended.
 End -to -End project
 
